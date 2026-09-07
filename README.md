@@ -43,6 +43,7 @@ All tools below are open-source, client-side first (zero tracking, sub-100ms res
 * 🐳 **[DevConfigHub](https://site-16-indol.vercel.app/)** — Interactive DevContainer, Docker Compose & Nix Flakes configuration generator.
 * 🔄 **[CIPipelineGraph](https://site-18-chi.vercel.app/)** — CI/CD YAML workflow visualizer, DAG dependency graph renderer & concurrency optimizer.
 * 📉 **[GreekVisualizer](https://site-19-nine.vercel.app/)** — Black-Scholes options Greeks (Delta, Gamma, Theta, Vega) & Uniswap v3 Impermanent Loss calculator.
+* 🏛️ **[CalculatorPensie](https://calculatorpensie.com/)** — Calculator Pensie România 2026: Simulator oficial conform noii Legi 360/2023, calcul puncte de stabilitate, vârstă de pensionare & Pilon 2/3.
 
 ---
 
