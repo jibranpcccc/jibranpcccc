@@ -47,8 +47,9 @@ All tools below are open-source, client-side first (zero tracking, sub-100ms res
 
 ---
 
-### 🎓 Sector 5: EdTech & Exam Preparation Communities
+### 🎓 Sector 5: EdTech & Career Communities
 * 📚 **[StudyGroupsHub](https://studygroupshub.com/)** — Verified Telegram channels, Discord study servers & peer preparation groups for 15+ standardized exams (IELTS, SAT, USMLE, NCLEX, UPSC).
+* 💼 **[JobAlertGroups](https://jobalertgroups.com/)** — Verified public job alert Telegram channels, Discord career servers & WhatsApp hiring communities across 14 international markets.
 
 ---
 
