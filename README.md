@@ -46,6 +46,11 @@ All tools below are open-source, client-side first (zero tracking, sub-100ms res
 
 ---
 
+### 🎓 Sector 5: EdTech & Exam Preparation Communities
+* 📚 **[StudyGroupsHub](https://studygroupshub.com/)** — Verified Telegram channels, Discord study servers & peer preparation groups for 15+ standardized exams (IELTS, SAT, USMLE, NCLEX, UPSC).
+
+---
+
 ## 🛠️ Core Tech Stack & Methodologies
 - **Languages & Runtimes:** TypeScript, Python 3.13, Rust, WebAssembly (WASM), WebGPU, Node.js.
 - **Frontend & SSG:** Astro 5, Tailwind CSS, Alpine.js, HTML5 Canvas, SVG DAG Visualizers.
