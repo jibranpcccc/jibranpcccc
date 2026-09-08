@@ -53,6 +53,22 @@ All tools below are open-source, client-side first (zero tracking, sub-100ms res
 
 ---
 
+
+---
+
+### 🌐 Sector 6: Global Community Directories & Knowledge Hubs
+* 🧭 **[Community Directories Central Portal](https://jibranpcccc.github.io/)** — Master navigation portal indexing 50+ curated niche directories.
+* 💻 **[Developer & Coding Hub](https://jibranpcccc.github.io/developer-coding-hub/)** — Vetted developer Discord guilds, subreddits, and open-source networks.
+* 🏷️ **[Deals, Coupons & Frugal Living Hub](https://jibranpcccc.github.io/deals-loot-coupons-hub/)** — Real-time bargain alerts, price tracking channels & deal forums.
+* 🌍 **[Remote Work & Digital Nomad Hub](https://jibranpcccc.github.io/remote-work-nomad-hub/)** — Global remote jobs, coworking hubs, and expat groups.
+* 🤖 **[AI Prompts & Generative AI Hub](https://jibranpcccc.github.io/ai-prompts-generative-hub/)** — Vetted communities for ChatGPT, Midjourney, and prompt engineering.
+* 🛡️ **[Cybersecurity & InfoSec Hub](https://jibranpcccc.github.io/cybersecurity-infosec-hub/)** — Bug bounty hunting, CTF teams, and ethical hacking discords.
+* 🎓 **[Scholarships & Study Abroad Hub](https://jibranpcccc.github.io/scholarships-study-abroad-hub/)** — International student funding, DAAD, Chevening & Fulbright circles.
+* ☁️ **[DevOps & Cloud Architecture Hub](https://jibranpcccc.github.io/devops-cloud-architect-hub/)** — Kubernetes, Terraform, AWS, and SRE community channels.
+* 📊 **[Data Science & Deep Learning Hub](https://jibranpcccc.github.io/data-science-machine-learning-hub/)** — Kaggle grandmasters, PyTorch research & LLM practitioners.
+* 💡 **[Indie Hackers & Micro-SaaS Hub](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/)** — Bootstrapped founders, BuildInPublic networks & MRR growth rooms.
+* 🎮 **[Game Dev & Indie Studios Hub](https://jibranpcccc.github.io/game-dev-indie-studios-hub/)** — Unreal, Unity, Godot & pixel art community directory.
+
 ## 🛠️ Core Tech Stack & Methodologies
 - **Languages & Runtimes:** TypeScript, Python 3.13, Rust, WebAssembly (WASM), WebGPU, Node.js.
 - **Frontend & SSG:** Astro 5, Tailwind CSS, Alpine.js, HTML5 Canvas, SVG DAG Visualizers.
