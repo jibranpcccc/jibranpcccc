@@ -69,6 +69,12 @@ All tools below are open-source, client-side first (zero tracking, sub-100ms res
 * 💡 **[Indie Hackers & Micro-SaaS Hub](https://jibranpcccc.github.io/indie-hackers-micro-saas-hub/)** — Bootstrapped founders, BuildInPublic networks & MRR growth rooms.
 * 🎮 **[Game Dev & Indie Studios Hub](https://jibranpcccc.github.io/game-dev-indie-studios-hub/)** — Unreal, Unity, Godot & pixel art community directory.
 
+---
+
+### 🏭 Sector 7: Industrial & Manufacturing
+
+* 📦 **[Barkat Packaging](https://barkatcartons.com/)** — Corrugated carton factory in Hyderabad, Sindh. 3-ply, 5-ply and 7-ply boxes, export-grade mango cartons, kharboza boxes, custom printed master cartons and plain corrugated sheets. Direct manufacturer pricing, delivery across Sindh.
+
 ## 🛠️ Core Tech Stack & Methodologies
 - **Languages & Runtimes:** TypeScript, Python 3.13, Rust, WebAssembly (WASM), WebGPU, Node.js.
 - **Frontend & SSG:** Astro 5, Tailwind CSS, Alpine.js, HTML5 Canvas, SVG DAG Visualizers.
